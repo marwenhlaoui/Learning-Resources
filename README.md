@@ -392,11 +392,6 @@
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
-## How can I thank you?
-
-Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
-
-Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
 
 Thanks!
 Prosper Otemuyiwa.
