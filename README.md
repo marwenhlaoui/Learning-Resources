@@ -393,5 +393,3 @@
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
 
-Thanks!
-Prosper Otemuyiwa.
